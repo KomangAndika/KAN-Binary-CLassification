@@ -13,5 +13,8 @@ Pros:
 - Smaller storage needed
 
 Cons:
-- I didn't read all that paper im bored
+- slow af evethough  usig the same amout of parameter to MLP
+
+Check out the paper: https://arxiv.org/abs/2404.19756
+Very gud paper but i can't understand the math and I can't read many sentences (me dumb)
 
